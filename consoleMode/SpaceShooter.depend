@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1709536319 source:c:\users\santa\desktop\zer0-bug\software project development\project1-spaceshooter\3-consolemode\spaceshooter\main.cpp
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<pthread.h>
+	<string.h>
+	<conio.h>
+

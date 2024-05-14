@@ -1,6 +1,6 @@
 # Console Space Shooter
 
-Console Space Shooter is a simple space shooter game implemented in C++ language using the console mode. It's a basic game where the player controls a spaceship and shoots down enemy ships while avoiding their projectiles.
+Console Space Shooter is a simple space shooter game implemented in C++ language using the console mode. It's a basic game where the player controls a spaceship and shoots down enemy ships.
 
 ## Features
 
